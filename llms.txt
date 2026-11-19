@@ -10,8 +10,15 @@
 
 ## Pages
 - [Accueil](https://safranchocolat.ma/)
-- [Réceptions](https://safranchocolat.ma/receptions): mariages, séminaires, soirées VIP
-- [Traiteur mariage à Rabat](https://safranchocolat.ma/traiteur-mariage-rabat)
-- [Traiteur entreprise à Rabat](https://safranchocolat.ma/traiteur-entreprise-rabat): séminaires, soutenances, buffets, open spaces
-- [La Collection](https://safranchocolat.ma/collection): entrées, plats, salés, desserts, pièce montée, pâtisseries, lunch box, coffrets
+- [Le Traiteur](https://safranchocolat.ma/receptions)
+- [Mariage & Fêtes privées](https://safranchocolat.ma/univers-mariage)
+- [Soutenance](https://safranchocolat.ma/univers-soutenance)
+- [Corporate & Institutionnel](https://safranchocolat.ma/univers-corporate)
+- [Buffet](https://safranchocolat.ma/univers-buffet)
+- [Open Space](https://safranchocolat.ma/univers-open-space)
+- [La Collection](https://safranchocolat.ma/collection)
+- [Composer mon événement (devis en ligne)](https://safranchocolat.ma/composer)
 - [Salle en 3D](https://safranchocolat.ma/salle-3d)
+- [La Maison : présentation, certifications, équipe](https://safranchocolat.ma/maison)
+- [Galerie](https://safranchocolat.ma/galerie)
+- [Contact](https://safranchocolat.ma/contact)
